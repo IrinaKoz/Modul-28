@@ -1,5 +1,5 @@
-email = 'nkudel@rambler.ru'
-password = 'Natalia771367'
-phone_number = '+79151177905'
-login_name = 'rtkid_1687516913643'
-ls = 584963215796
+email = 'shvedylya@gmail.com'
+password = 'FROG999FROG321!!!f'
+phone_number = '+79261054965'
+login_name = 'rtkid_1688115213763'
+ls = 584963215321
